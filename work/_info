@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/digital electronics/bit_ripple
+vbit_ripple
+!s110 1765826758
+!i10b 1
+!s100 SHE;d[eIk>D_UX_5TF:IP2
+IO6CmnQMT8@TSG8QIQ;SXP0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1765826508
+8D:/digital electronics/bit_ripple/bit_ripple.v
+FD:/digital electronics/bit_ripple/bit_ripple.v
+L0 1
+OV;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1765826758.000000
+!s107 D:/digital electronics/bit_ripple/bit_ripple.v|
+!s90 -reportprogress|300|-work|work|D:/digital electronics/bit_ripple/bit_ripple.v|
+!i113 1
+o-work work
+tCvgOpt 0
